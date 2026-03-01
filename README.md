@@ -1,5 +1,8 @@
 # SENTIMENTANALYSISTOOL
 A sleek Flask web app using NLTK to analyze text emotion. Features a modern glassmorphism UI, real-time sentiment scoring (VADER), and an NLP pipeline (Tokenization &amp; Lemmatization). Perfect for processing customer reviews with a single click. Built with Python, HTML, and CSS. 🚀
+
+
+
 📊 AI Sentiment Analysis Tool
 A sleek, web-based Sentiment Analysis application built with Python, Flask, and NLTK. This tool uses Natural Language Processing (NLP) to determine if a piece of text (like a customer review) is Positive, Negative, or Neutral.
 
